@@ -556,6 +556,10 @@
 # print(peoples["Ahmed"]['Css'])
 # print(peoples["Sayed"]['Css'])
 
+# print(peoples["Osama"]['Css'])
+# print(peoples["Ahmed"]['Css'])
+# print(peoples["Sayed"]['Css'])  edit 
+
 # for name in peoples:
 
 #   print(f"Skills and Progress For {name} Is: ")
@@ -590,7 +594,8 @@
 #   "JS": "80%",
 #   "Python": "90%",
 #   "MySQL": "60%"
-# }
+# }1
+
 
 
 # for skill in mySkills :
@@ -892,9 +897,10 @@
 # show_skills("osam", "html","css","js")    
 
 # input("what your name")
-my_tuple = (1, 2, 3, 4)
+# my_tuple = (1, 2, 3, 4)
 
-my_tuple.append((5, 6, 7))
+# my_tuple.append((5, 6, 7))
 
-print(len(my_tuple))
+# print(len(my_tuple))
 
+1
